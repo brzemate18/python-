@@ -1,0 +1,5 @@
+a=input("digite seu nome")
+print('o timpo primitivo', type(a))
+print('tem espaço',a.isspace())
+print('em maiusculas',a.isupper())
+print('isso e um numero',a.isnumeric())
